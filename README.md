@@ -10,7 +10,7 @@ You will be doing your work in a Colab notebook.
 6. You will shared your `problemset10` folder on Google Drive with me and the TAs.
 7. You will also download all three submission CSV files and then push them to your GitHub repo.
 
-[Here is a link to the PS9 Colab notebook](https://colab.research.google.com/drive/1A-Z7l3-inoKlP0brN9o0tDs6aTz3HBlk?usp=sharing)
+[Here is a link to the PS10 Colab notebook](https://colab.research.google.com/drive/1A-Z7l3-inoKlP0brN9o0tDs6aTz3HBlk?usp=sharing)
 
 Don't forget that there is helpful code in [the sample code repo](https://github.com/CSCI1090-S24/sample_code/). You'll need the sample code for week 10, week 12, week 13, and week 14.
 
